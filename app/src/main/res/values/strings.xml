@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hire</string>
+    <string name="quick_sort">QUICK SORT</string>
+    <string name="merge_sort">MERGE SORT</string>
+</resources>
